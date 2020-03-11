@@ -17,7 +17,8 @@ Follow the instructions line-by-line.
 Write the command you used to do this below.
 ----------
 
-
+touch temp.txt
+nano temp.txt
 
 ==========
 3. Open another terminal
@@ -29,6 +30,7 @@ Write the command you used to do this below.
 
 Write the command that you used to do this, and the last two lines of output.
 ----------
+
 
 
 ==========
